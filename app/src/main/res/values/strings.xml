@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Datxe</string>
+    <string name="app_name">DatXe</string>
+    <string name="action_settings">Settings</string>
 </resources>
